@@ -1,37 +1,37 @@
-# Computer Science ePortfolio
-## Stewart Poulnott
+# Stewart_Poulnott_CS499-ePortfolio
 
-### About Me
+## Computer Science ePortfolio
+
+### Stewart Poulnott
+
+## About Me
+
 I am a Computer Science student at Southern New Hampshire University specializing in mobile application development. This ePortfolio showcases my capstone project enhancements to the WeightTracker Android application.
 
-### Professional Self-Assessment
+## Professional Self-Assessment
 
+[Link to Professional Self-Assessment - Coming soon]
 
+## Code Review
 
-### Code Review
+[Link to Code Review Video - Coming soon]
 
+## Enhancements
 
+### [Enhancement One: Password Security](./Enhancement-One-Password-Security/)
 
-### Enhancements
+* **Category:** Software Engineering and Design
+* **Description:** Implemented SHA-256 password hashing for secure user authentication
+* **[View Code & Narrative](./Enhancement-One-Password-Security/)**
 
-#### Enhancement One: Password Security
-- **Category:** Software Engineering and Design
-- **Description:** Implemented SHA-256 password hashing for secure user authentication
+### [Enhancement Two: Visual Analytics](./Enhancement-Two-Visual-Analytics/)
 
+* **Category:** Algorithms and Data Structures
+* **Description:** Created interactive weight progress charts using data visualization algorithms
+* **[View Code & Narrative](./Enhancement-Two-Visual-Analytics/)**
 
+### Enhancement Three: Database Migration
 
-
-#### Enhancement Two: Visual Analytics
-- **Category:** Algorithms and Data Structures
-- **Description:** Created interactive weight progress charts using data visualization algorithms
-
-
-
-
-#### Enhancement Three: Database Migration
-- **Category:** Databases
-- **Description:** Implemented professional database migration strategy preserving user data
-
-
-
-
+* **Category:** Databases
+* **Description:** Implemented professional database migration strategy preserving user data
+* *(Coming soon)*
