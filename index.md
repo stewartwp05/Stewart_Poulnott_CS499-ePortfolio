@@ -34,4 +34,4 @@ I am a Computer Science student at Southern New Hampshire University specializin
 
 * **Category:** Databases
 * **Description:** Implemented professional database migration strategy preserving user data
-* *(Coming soon)*
+* **[View Code & Narrative](./Enhancement-Three-Database-Optimization/)**
