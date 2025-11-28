@@ -30,8 +30,8 @@ I am a Computer Science student at Southern New Hampshire University specializin
 * **Description:** Created interactive weight progress charts using data visualization algorithms
 * **[View Code & Narrative](./Enhancement-Two-Visual-Analytics/)**
 
-### Enhancement Three: Database Migration
+### [Enhancement Three: Database Optimization & Integrity](./Enhancement-Three-Database-Optimization/)
 
 * **Category:** Databases
-* **Description:** Implemented professional database migration strategy preserving user data
+* **Description:** Implemented database performance optimization through indexes, referential integrity with foreign key constraints, data consistency with transactions, and security through authorization checks
 * **[View Code & Narrative](./Enhancement-Three-Database-Optimization/)**
