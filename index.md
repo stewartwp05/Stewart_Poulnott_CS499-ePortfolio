@@ -14,7 +14,7 @@ I am a Computer Science student at Southern New Hampshire University specializin
 
 ## Code Review
 
-[Link to Code Review Video - Coming soon]
+[Code Review](https://youtu.be/qkUqEl7Xdjk)
 
 ## Enhancements
 
